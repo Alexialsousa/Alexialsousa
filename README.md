@@ -23,7 +23,7 @@ I'm currently in my last year of my Software Engineering degree at Concordia Uni
 <div align="center">
 
 ## [Check out my Website](https://alexiasousa.netlify.app/) 
-<img align="center" height=350 src="website.png">
+<a href="https://alexiasousa.netlify.app/" target="blank"><img align="center" height=350 src="website.png"></a>
 </div>
 <br>
 
